@@ -1,0 +1,182 @@
+[
+    {
+        "id": "1",
+        "spotName": "Lanca del Monza",
+        "spotPaese": "Parco del Ticino",
+        "spotAcqua": "Ticino",
+        "spotImageSrc": "spots_img/monza1.jpg",
+        "spotDescr": "La culla del Ticino, una lanca lunga più di 500m che corre affianco al Fiume Azzurro. Durante la prima piena dell'anno le carpe entrano per trovare riparo e ci rimangono fino al periodo della frega. Con la seconda piena escono e ritornano nella corrente.",
+        "spotCoord": [
+            45.471628,
+            8.787196
+        ]
+    },
+    {
+        "id": "2",
+        "spotName": "Cava Marcoli",
+        "spotPaese": "Romentino",
+        "spotAcqua": "Cava",
+        "spotImageSrc": "spots_img/marcoli1.jpg",
+        "spotDescr": "",
+        "spotCoord": [
+            45.466796,
+            8.767195
+        ]
+    },
+    {
+        "id": "3",
+        "spotName": "Torch",
+        "spotPaese": "Cerano",
+        "spotAcqua": "Molinara",
+        "spotImageSrc": "spots_img/torch1.jpg",
+        "spotDescr": "",
+        "spotCoord": [
+            45.416962,
+            8.812398
+        ]
+    },
+    {
+        "id": "4",
+        "spotName": "San Martino - Prismata",
+        "spotPaese": "San Martino - Trecate",
+        "spotAcqua": "Ticino",
+        "spotImageSrc": "spots_img/sanmartino1.jpg",
+        "spotDescr": "",
+        "spotCoord": [
+            45.451387,
+            8.802131
+        ]
+    },
+    {
+        "id": "5",
+        "spotName": "Laghetto dei salici",
+        "spotPaese": "Romentino",
+        "spotAcqua": "",
+        "spotImageSrc": "spots_img/laghettodeisalici.jpg",
+        "spotDescr": "",
+        "spotCoord": [
+            45.464247,
+            8.779638
+        ]
+    },
+    {
+        "id": "6",
+        "spotName": "CDC",
+        "spotPaese": "Castelletto di Cuggiono",
+        "spotAcqua": "Naviglio Grande",
+        "spotImageSrc": "spots_img/cdc.jpg",
+        "spotDescr": "Una vera e propria stanza dello spirito e del tempo. Un' antica cava risalente agli anno '70 formata da un intreccio di canali che si estendono su un area di 1000km quadrati. Qui il tempo si è fermato e gli animali e i pesci trovano riparo dai pericoli esterni. Luogo di leggende, capace di mettere a dura prova anche l'angler più preparato, ma che sa ricompensare con dei pesci che non si possono pescare da altre parti.",
+        "spotCoord": [
+            45.490464,
+            8.79937
+        ]
+    },
+    {
+        "id": "7",
+        "spotName": "San Martino - Spiaggetta",
+        "spotPaese": "San Martino - Trecate",
+        "spotAcqua": "Ticino",
+        "spotImageSrc": "spots_img/sanmartino_spiaggetta1.jpg",
+        "spotDescr": "",
+        "spotCoord": [
+            45.452379,
+            8.800961
+        ]
+    },
+    {
+        "id": "8",
+        "spotName": "Naviglio - Isola",
+        "spotPaese": "Galliate",
+        "spotAcqua": "Naviglio Langosco",
+        "spotImageSrc": "spots_img/naviglio1.jpg",
+        "spotDescr": "Il naviglio Langosco é un corso d'acqua irriguo che affonda le sue radici nel quindicesimo secolo e venne costruito per volere del duca di Milano. Il Langosco è un canale caratterizzato da lunghi erbai sinuosi, fondo duro, ghiaioso e un acqua cristallina che neanche una piscina ha, d'altronde nasce dalle acque azzure del Ticino. Nel corso degli anni, una massiccia popolazione di carpe e amur si è stabilita qui, in arrivo dal Ticino",
+        "spotCoord": [
+            45.492818,
+            8.738988
+        ]
+    },
+    {
+        "id": "9",
+        "spotName": "Lanca dei 3 salti",
+        "spotPaese": "Parco del Ticino",
+        "spotAcqua": "Ticino",
+        "spotImageSrc": "spots_img/tresalti.jpg",
+        "spotDescr": "",
+        "spotCoord": [
+            45.530801,
+            8.720372
+        ]
+    },
+    {
+        "id": "10",
+        "spotName": "Lago di Viverone",
+        "spotPaese": "Viverone",
+        "spotAcqua": "",
+        "spotImageSrc": "spots_img/viverone.jpg",
+        "spotDescr": "",
+        "spotCoord": [
+            45.405267,
+            8.033566
+        ]
+    },
+    {
+        "id": "11",
+        "spotName": "Pozze",
+        "spotPaese": "Cerano",
+        "spotAcqua": "Molinara",
+        "spotImageSrc": "spots_img/pozze1.jpg",
+        "spotDescr": "",
+        "spotCoord": [
+            45.417996,
+            8.812781
+        ]
+    },
+    {
+        "id": "12",
+        "spotName": "Prato",
+        "spotPaese": "Cerano",
+        "spotAcqua": "Molinara",
+        "spotImageSrc": "spots_img/prato1.jpg",
+        "spotDescr": "",
+        "spotCoord": [
+            45.417842,
+            8.812046
+        ]
+    },
+    {
+        "id": "13",
+        "spotName": "Cava dell'oro",
+        "spotPaese": "Turbigo",
+        "spotAcqua": "Ticino",
+        "spotImageSrc": "spots_img/cavaoro1.jpg",
+        "spotDescr": "",
+        "spotCoord": [
+            45.509933,
+            8.725391
+        ]
+    },
+    {
+        "id": "14",
+        "spotName": "Quercia",
+        "spotPaese": "Cameri",
+        "spotAcqua": "Ticino",
+        "spotImageSrc": "spots_img/quercia1.jpg",
+        "spotDescr": "",
+        "spotCoord": [
+            45.540563,
+            8.710558
+        ]
+    },
+    {
+        "id": "15",
+        "spotName": "Cava Vincenzino",
+        "spotPaese": "Romentino",
+        "spotAcqua": "Cava",
+        "spotImageSrc": "spots_img/vincenzino1.jpg",
+        "spotDescr": "La cava in questione nasce negli anni '70 come polo di escavazione, quelli che inizialmente erano due bacini distinti vennero uniti all'inizio degli anni 2000. Il lago oggi si presenta con una particolare forma ad “H” con profonde anse ed giganteschi erbai sommersi, raggiunge inoltre un picco di 27m di profondità. É un lago la cui fama viene preceduta dalle leggende, leggende che raccontano di pesci mostruosi, pesci da sogno, sogni nei quali noi carpisti amiamo farci cullare, una sola cosa ci riporta alla realtà, l'immensa presenza di pesci di disturbo infestanti che rende pressoché impossibile catturare questi sogni. O quasi.",
+        "spotCoord": [
+            45.456157,
+            8.771854
+        ]
+    }
+]

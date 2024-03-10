@@ -1,0 +1,32 @@
+[   
+    {
+    "id": "1",
+    "anglerName": "Rudy Martin",
+    "anglerNikName": "Rudy",
+    "anglerImageSrc": "anglers_img/rudy.jpg"    
+    },
+    {
+    "id": "2",
+    "anglerName": "Christian Bonomi",
+    "anglerNikName": "CB",
+    "anglerImageSrc": "anglers_img/cb.jpg"    
+    },
+    {
+    "id": "3",
+    "anglerName": "Alessandro Calella",
+    "anglerNikName": "Gremlin",
+    "anglerImageSrc": "anglers_img/ale.jpg"    
+    },
+    {
+    "id": "4",
+    "anglerName": "Kiuppa",
+    "anglerNikName": "Kiuppa",
+    "anglerImageSrc": "anglers_img/kiuppa.jpg"    
+    },
+    {
+    "id": "5",
+    "anglerName": "Andrea Butticè",
+    "anglerNikName": "Ricky",
+    "anglerImageSrc": "anglers_img/butti.jpg"    
+    }
+]

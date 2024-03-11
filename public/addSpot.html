@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>The Spot DB - Nuovo Spot</title>
+
+    <!-- Open Sans -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap"
+        rel="stylesheet">
+
+    <!-- Link al CSS -->
+    <link rel="stylesheet" href="style/style.css">
+</head>
+<body>
+    <header>
+        <div class="logo">
+            <h1>The Spot DB</h1>
+        </div>
+        <div class="menu">
+            <a href="spots.html" class="spots-btn" name="spots-btn" id="spots-btn">Spots</a>
+            <a href="wallOfCarp.html" class="woc-btn" name="woc-btn" id="woc-btn">Wall Of Carp</a>
+            <a href="anglers.html" class="anglers-btn" name="anglers-btn" id="anglers-btn">Anglers</a>
+            <input class="search-bar" name="search-bar" id="search-bar" placeholder="Search" type="text">
+            <label for="menu-btn" class="menu-icon">
+                <img src="img/menu.svg" class="icon">
+            </label>
+        </div>
+        <div class="menu-discesa">
+            <input class="menu-btn" id="menu-btn" type="checkbox" checked>
+            <ul>
+                <li><a href="spots.html">Spots</a></li>
+                <li><a href="wallOfCarp.html">Wall Of Carp</a></li>
+                <li><a href="anglers.html">Anglers</a></li>
+            </ul>
+        </div>
+    </header>
+    <main style="display: block;">
+    <h1 style="text-align: center;">Aggiungi un nuovo spot</h1>
+
+    <!-- Form HTML per aggiungere un nuovo spot -->
+    
+    <form id="spotForm" style="display: flex; flex-direction: column; align-items: center;">
+        <div class="addForm">
+            <label for="spotImage">Foto:</label>
+            <input type="file" id="spotImage">
+            <label for="name">Nome:</label>
+            <input type="text" id="name" placeholder="Inserisci il nome">
+            <label for="paese">Paese:</label>
+            <input type="text" id="paese" placeholder="Inserisci il paese">
+            <label for="acque">Acque:</label>
+            <input type="text" id="acque" placeholder="Inserisci le acque">
+            <label for="descr">Descrizione:</label>
+            <textarea id="descr" placeholder="Inserisci una descrizione"></textarea>
+            <label for="coordX">Latitudine:</label>
+            <input type="text" id="coordX" name="coordX" placeholder="Incolla qui la longitudine">
+            <label for="coordY">Longitudine:</label>
+            <input type="text" id="coordY" name="coordY" placeholder="Incolla qui la latitudine">
+        </div>
+        <button id="add-btn" class="add-btn" type="submit">Crea spot</button>
+        <div id="confirm" class="testoSTD"></div>
+    </form>
+</main>
+    <!-- Script JavaScript -->
+    <script src="javascript/addSpot.js"></script>
+</body>
+</html>

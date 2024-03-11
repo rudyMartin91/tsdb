@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>The Spot DB - Wall Of Carp</title>
+
+    <!-- Open Sans -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap"
+        rel="stylesheet">
+
+    <!-- Link al CSS -->
+    <link rel="stylesheet" href="style/style.css">
+</head>
+
+<body>
+    <header>
+        <div class="logo">
+            <h1>The Spot DB</h1>
+        </div>
+        <div class="menu">
+            <a href="spots.html" class="spots-btn" name="spots-btn" id="spots-btn">Spots</a>
+            <a href="wallOfCarp.html" class="woc-btn" name="woc-btn" id="woc-btn">Wall Of Carp</a>
+            <a href="anglers.html" class="anglers-btn" name="anglers-btn" id="anglers-btn">Anglers</a>
+            <input class="search-bar" name="search-bar" id="search-bar" placeholder="Search" type="text">
+            <label for="menu-btn">
+                <img src="img/menu.svg" class="icon">
+            </label>
+        </div>
+        <div class="menu-discesa">
+            <input class="menu-btn" id="menu-btn" type="checkbox" checked>
+            <ul>
+                <li><a href="spots.html">Spots</a></li>
+                <li><a href="wallOfCarp.html">Wall Of Carp</a></li>
+                <li><a href="anglers.html">Anglers</a></li>
+            </ul>
+        </div>
+    </header>
+    <main style="display: block;">
+        <div style="display: flex; justify-content: space-between; align-items: center; margin: 0 2.5%">
+            <h1>Wall Of Carp</h1>
+            <a href="addCarp.html"><img src="img/add.svg" class="icon" style="width: 30px;"></a>
+        </div>
+        <div id="carps-container"></div>
+    </main>
+
+    <script src="javascript/woc.js"></script>
+</body>
+
+</html>
